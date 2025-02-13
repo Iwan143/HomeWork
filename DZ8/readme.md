@@ -7,6 +7,8 @@
 
 3.  cd DZ8
 
-4.  make
+4.  export LD_LIBRARY_PATH=.:$LD_LIBRARY_PATH
 
-5.  ./calculator
+5.  make
+
+6.  ./calculator
