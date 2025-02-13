@@ -1,9 +1,12 @@
-**git clone https://github.com/Iwan143/HomeWork.git**
+**Запуск Программы**
 
-**cd HomeWork**
 
-**cd DZ8**
+1.  git clone https://github.com/Iwan143/HomeWork.git
 
-**make**
+2.  cd HomeWork
 
-**./calculator**
+3.  cd DZ8
+
+4.  make
+
+5.  ./calculator
